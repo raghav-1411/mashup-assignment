@@ -2,6 +2,10 @@
 
 A YouTube mashup generator that downloads videos from any artist, extracts audio, trims clips, and merges them into a single mashup track.
 
+**## Student Details
+- **Name:** Raghav Chhabra  
+- **Roll Number:** <102303580>  **
+
 ## Programs
 
 ### Program 1 - Command Line Tool
