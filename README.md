@@ -42,8 +42,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-[Full Documentation →](program2/README.md)
-
 ## Environment Setup
 
 Copy `sample .env` to `.env` in the root folder and fill in your Mailjet credentials (required for Program 2):
